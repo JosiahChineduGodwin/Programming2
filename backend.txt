@@ -3,5 +3,4 @@
 3. SQL
 4. NODE.JS
 5.RASPERRY PI
-PHP > ASP > SQL > NODE.JS > RASPERRY PI
-Mistake
+Once again
